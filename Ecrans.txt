@@ -1,0 +1,81 @@
+:: 15" ::
+
+auo70ed (P751TM1) (Top photo)(Top jeux)
+1920×1080
+40pins 144Hz
+IPS LCD
+Contrast Ratio 800:1 (Typ.)
+Brightness 300 (Typ.)
+Support Color 16.7M   72% NTSC
+G-Sync
+
+LGD046F (P751DM2) (LP156WF6-SPB1) (LP156WF6-SPB5)
+1920(RGB)×1080
+30 pins 60Hz
+IPS LCD
+Contrast Ratio 700:1 (Typ.)
+Brightness 300 cd/m² (Typ.)
+Display Colors 262K   72% NTSC 
+G-Sync
+
+LGD053F (Spare) (LP156WF6-SPM3)
+1920(RGB)×1080
+30 pins 60Hz
+IPS LCD
+Contrast Ratio 700:1 (Typ.)
+Brightness 300 cd/m² (Typ.) 
+Display Colors 262K   72% NTSC 
+
+
+::: Que je n'ai pas :::
+
+LQ156D1JW04 (Top photo)
+3840(RGB)×2160 
+40 pins 
+ (IPS) 
+Contrast Ratio 1000:1 (Typ.) 
+Brightness 330 cd/m² (Typ.) 
+Display Colors 16.7M 100% sRGB
+
+LQ156D1JX01B  (Top TOP photo) (cable 43-P7501-012-1C)
+3840(RGB)×2160 
+40 pins 60Hz 
+ (IPS) 
+Contrast Ratio 1000:1 (Typ.) 
+Brightness 330 cd/m² (Typ.) 
+Display Colors 16.7M 100% sRGB
+
+LP156UD1-SPB1 
+3840(WR/GB)×2160 
+40 pins 60Hz 
+(IPS) 
+Contrast Ratio 800:1 (Typ.) 
+Brightness 300 cd/m² (Typ.) 
+Display Colors 16.7M 72% NTSC
+G-sync
+
+LTN156FL02-101
+3840(RG/BW)×2160 
+40 pins 
+(PLS) 
+Contrast Ratio 700:1 (Typ.) 
+Brightness 330 cd/m² (Typ.)
+ Display Colors 16.7M 72% NTSC
+G-sync
+
+LP156WFG-SPF2 (Top TOP Jeux, Top TOP FHD photo) FHD gagnant
+1920(RGB)×1080 
+40 pins 144Hz 
+(IPS) 
+Contrast Ratio 800:1 (Typ.) 
+Brightness 300 cd/m² (Typ.) 
+Display Colors 16.7M 99% sRGB
+G-sync
+
+AUO B156HTN05.2 
+1920(RGB)×1080 
+30 pins 120Hz(TN) 
+Contrast Ratio 700:1 (Typ.) 
+Brightness 400 cd/m² (Typ.) 
+Display Colors 16.7M 72% NTSC
+G-sync

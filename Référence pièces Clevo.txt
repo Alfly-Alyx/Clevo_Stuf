@@ -1,0 +1,33 @@
+Références de pièces pour P7**DM/TM
+
+Les 2 modèles de ventilateurs se montent sur l'un ou sur l'autre
+
+Ventilateur 15"/17" DM2/DM3 : 6-31-P75D3-302, 6-31-p75D3-202, 6-31-P75D3-201
+Ventilateur 15" TM1 : 6-31-P75D3-302, 6-31-p75D3-202, 6-31-P75D3-201
+Ventilateur 17" TM1 : 6-31-P7753-100, 6-31-P7753-101
+
+Batterie références : 6-87-P750S-4273 (P750/770DM), 6-87-P750S-4272 (P750/770ZM), 6-87-P750S-4271
+Batterie : capacité 83Wh, 14.6V charge à 17.2V, 5400mAh, P750BAT-8
+Prix batterie : 42 euros en Chine l'origine (2 semaines à 3 mois de délais), 75 euros en Allemagne l'origine (2 semaines de délais)
+
+Écran 15" : B156HAN07.0/B156HAN05.2 (câble 6-43-P75D1-010-C)
+Écran 17" : B173HAN03.1 ou B173ZAN01.0 (câble 6-43-P7751-020-1L)
+
+Clavier X170 : 6-80-X17S0-060-K ou 6-80-X17S3-190-1
+Clavier P7** : (Vendor : Sunrex) 6-80-P7500-061-3 modèle V149550AK1 FR
+
+Carte mère :
+P775TM1 : 6-77-P775TM1A-N02
+
+Heatsink :
+Initialement ==> DM2 : 6-31-P75D3-302 et 6-31-P775N-2A2 / TM1 : 6-31-P75F3-101, 6-31-P77FF-201-101, 6-31-P75F3-202 et 6-31-P77FN-402
+15" GTX1060 : 6-31-P75D3-302
+15" GTX1070/1080 : 6-31-P75F3-101
+15" RTX20** : 6-31-P75F3-202
+17" RTX20** : 6-31-P77FN-402
+17" GTX10** : 6-31-P775N-2A2 (Version "one piece") / 6-31-P77FF-201-101 (version "two piece")
+
+Carte 1080 mxm : 6-71-P872L-D12 (N17E-G3-A1) (230 euros)
+2070S : 6-77-X170L-D04-X (N18E-G2R-A1) (250 euros)
+2070 Refresh : 6-77-X170L-D04-Y (N18E-G1R-MP-A1) (230 euros)
+2070 : 6-77-X170L-D03-H (N18E-G2-A1) (230 euros)
