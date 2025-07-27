@@ -1,0 +1,13 @@
+Bios Obsidian :
+1.07.24Dda
+1.07.27Sio
+
+Bios dsanke :
+1.07.29
+
+PCSpecialist :
+1.07.20TPCS
+
+SIO = Obsidian
+EC = EuroCom
+PCS = PCSpecialist
