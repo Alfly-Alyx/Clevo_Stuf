@@ -1,2 +1,3 @@
 Bios RTX3080 : W25Q16JW 1.8V
-Motherboard P7xxTM : MX25L6473E 3V
+Motherboard Bios chip P7xxTM : MX25L6473E 3V (U16)
+Motherboard Bios chip P870 : MX2564L73F (U16)
